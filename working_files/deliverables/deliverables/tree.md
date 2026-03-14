@@ -1,15 +1,5 @@
 # Issue Tree Template — Georgia (Country) Logistics Sector
 
-## Purpose
-
-Issue trees help teams decompose a large strategic problem into smaller, analyzable components. A strong issue tree is MECE: mutually exclusive and collectively exhaustive.
-
-## Instructions
-
-Use this template after your team has agreed on a Georgia logistics context (e.g., port operator, rail freight, trucking, freight forwarder, 3PL/warehouse, customs/border agency) and a broad strategic challenge. Do not jump to recommendations. First structure the problem.
-
----
-
 ## Part 1. Core question
 
 Write the central strategic question in one sentence.

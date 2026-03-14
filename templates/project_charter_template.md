@@ -18,6 +18,7 @@ The charter is separate from the Team Charter. The Team Charter covers how you w
   - Nikita Karpovi Chkhirodze
   - Givi Jalagonia
   - Lizi Mshvenieradze
+  - Saba Kepuladze
 - Instructor:
 - Semester: 2
 - Version: 1

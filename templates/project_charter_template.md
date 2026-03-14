@@ -15,9 +15,12 @@ The charter is separate from the Team Charter. The Team Charter covers how you w
 - Team name:
 - Industry context:
 - Members:
+- Nikita Karpovi Chkhirodze
+- Givi Jalagonia
+- Lizi Mshvenieradze
 - Instructor:
-- Semester:
-- Version:
+- Semester: 2
+- Version: 1
 - Date last updated:
 
 ---

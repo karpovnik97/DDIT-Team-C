@@ -61,8 +61,8 @@ Identify what is incomplete or weakly evidenced in the competitive landscape v1 
 
 | Section | Gap or Weakness | Research Action | Owner | Due Date |
 |---|---|---|---|---|
-| Porter's Five Forces | | | | |
-| Value chain | | | | |
+| Porter's Five Forces | | | | Nikita|
+| Value chain | | | | Nikita|
 | New entrants or substitutes | | | | |
 | Jobs-to-be-done analysis | | | | |
 | Competitive positioning matrix | | | | |

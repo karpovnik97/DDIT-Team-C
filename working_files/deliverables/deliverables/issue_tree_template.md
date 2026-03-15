@@ -18,6 +18,7 @@ How should [client or focal company] respond to [digital disruption force] in or
 
 
 **- Core Question**
+
 **Why are Georgian courier and parcel-delivery companies getting fewer e‑commerce shipments when foreign online marketplaces expand into Georgia?**
 
 **- Why this question matters:**

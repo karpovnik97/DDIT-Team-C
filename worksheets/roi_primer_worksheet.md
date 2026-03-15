@@ -36,9 +36,10 @@ How should [client] respond to [specific disruption force] in order to [strategi
 - Connection to competitive landscape:
 
 
+
 How should Georgian Post respond to increasing Chinese imports in order to dominate last-mile parcel delivery before the market saturation?
 
-Georgian Post must partner exclusively with Chinese e-commerce giants like Taobao and Pinduoduo to capture booming import demand before local couriers like USA2GEORGIA and Onex consolidate the market. Launching cash-on-delivery and installment payment options now
+Georgian Post must partner exclusively with Chinese e-commerce giants like Taobao and Pinduoduo to capture booming import demand before local couriers like USA2GEORGIA and Onex consolidate the market. Launching cash-on-delivery and installment payment options now will allow Gpost to differentiate their services, so they no longer have to compete on delivery price alone.
 
 
 ---
@@ -47,20 +48,25 @@ Georgian Post must partner exclusively with Chinese e-commerce giants like Taoba
 
 For each value driver category, identify one specific mechanism in your client's context. A mechanism is not a benefit statement. It is a causal chain: because of [transformation action], [specific operational change] occurs, which produces [financial outcome].
 
-**Revenue Growth** 
-Because exclusive Taobao/Pinduoduo partnerships funnel high-volume imports through Post's network, last-mile delivery volumes rise 20-30%, enabling premium fees on COD/installments.
-
-
 
 ### 2.1 Revenue Growth
 
 How does the transformation enable new revenue that would not otherwise exist?
 
-- Mechanism:
-- Scope of impact (which customer segment, product, or channel):
-- Order of magnitude estimate (do not model precisely yet):
-- Data needed to quantify:
-- Evidence collected so far:
+- **Mechanism**:
+Because exclusive Taobao/Pinduoduo partnerships funnel high-volume imports through Post's network, last-mile delivery volumes rise 20-30%, enabling premium fees on COD/installments.
+  
+- **Scope of impact** (which customer segment, product, or channel):
+Chinese import segment
+
+- **Order of magnitude estimate** (do not model precisely yet):
+
+
+- **Data needed to quantify**:
+The increase orders for G-post
+Profit per customer attrackted thourgh partnership.
+
+- **Evidence collected so far**:
 
 ### 2.2 Cost Reduction
 

@@ -1,0 +1,129 @@
+# AI Tool Policy Appendix
+
+## Purpose
+
+This appendix must be attached to every submitted deliverable in this course. It is the disclosure framework that ensures transparency about how AI tools were used in preparing work.
+
+AI assistants are permitted as productivity tools. They are not permitted as substitutes for the team's strategic thinking, analytical judgment, or original recommendations. The distinction matters: the grade is for your thinking, not for AI output.
+
+If you cannot explain and defend every claim in your deliverable under instructor questioning, the work does not meet the standard regardless of the quality of the prose.
+
+---
+
+## Required Information
+
+**Team name:**
+
+**Deliverable name and version:**
+
+**Date submitted:**
+
+**Team members signing this appendix:**
+
+1.
+2.
+3.
+4.
+
+---
+
+## Section 1. AI Tools Used
+
+List every AI tool used in preparing this deliverable. If none were used, write "None used" and proceed to Section 5.
+
+| Tool Name | Version or Model | Purpose in This Deliverable |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+---
+
+## Section 2. Nature of AI Contribution
+
+For each type of use, indicate Yes or No. If Yes, provide a brief description.
+
+### 2.1 Drafting initial outlines or document structure
+
+- Used: Yes / No
+- If Yes, describe:
+
+### 2.2 Generating analytical content, insights, or strategic claims
+
+- Used: Yes / No
+- If Yes, describe which sections and how the team verified and tested the output:
+
+### 2.3 Editing prose for grammar, clarity, or style
+
+- Used: Yes / No
+- No further disclosure required for this use.
+
+### 2.4 Research and data gathering
+
+- Used: Yes / No
+- If Yes, describe the verification method used to confirm source accuracy and recency:
+
+### 2.5 Building or populating templates, frameworks, or models
+
+- Used: Yes / No
+- If Yes, describe and confirm the team reviewed all outputs before submission:
+
+### 2.6 Any other use not covered above
+
+- Used: Yes / No
+- If Yes, describe:
+
+---
+
+## Section 3. Source Verification
+
+If AI tools were used for research or data gathering, confirm the following:
+
+- All factual claims in this deliverable have been traced to a named primary source:  Yes / No / Not applicable
+- All data points include source, year, and access method:  Yes / No / Not applicable
+- No claim relies solely on AI-generated content without independent verification:  Yes / No / Not applicable
+
+If any answer is No, explain:
+
+---
+
+## Section 4. Team Attestation
+
+By signing below, all team members confirm:
+
+1. All strategic analysis, recommendations, and conclusions in this deliverable represent the original thinking of the team members named above.
+
+2. AI tools were used as productivity aids only in the ways described in this appendix.
+
+3. Every team member can explain and defend all content in this deliverable under instructor questioning, including any sections where AI tools assisted with drafting or structure.
+
+4. No section of this deliverable was produced by AI and submitted without the team's review, judgment, and endorsement.
+
+**Signatures (print names):**
+
+Member 1: ______________________
+
+Member 2: ______________________
+
+Member 3: ______________________
+
+Member 4: ______________________
+
+---
+
+## Section 5. Instructor Use Only
+
+- Appendix reviewed: Yes / No
+- Disclosure adequate: Yes / No / Requires follow-up
+- Q&A probe conducted: Yes / No
+- Notes:
+
+---
+
+## Submission Instructions
+
+Attach this appendix as the final section of every team deliverable before uploading to the Microsoft Teams folder.
+
+File naming: `TeamX_Deliverable_v1_YYYYMMDD_AIAppendix`
+
+A missing appendix counts as an incomplete submission. Late appendix attachments receive the same late penalty as the parent deliverable.

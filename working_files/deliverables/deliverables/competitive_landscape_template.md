@@ -74,7 +74,7 @@ Companies add more pickup warehouses in the city. By that it can decrease delive
 
 ### Competitive rivalry
 **Number and type of competitors:**  
-Over 25 companies including: Oneway, Onex, Inex, USA2GEORGIA.  Fragmented mix of SaaS logistics, 3PLs, and independent couriers creates intense local clutter
+Over 100 logistics firms operate nationwide including: Oneway, Onex, Inex, USA2GEORGIA.  Fragmented mix of SaaS logistics, 3PLs, and independent couriers creates intense local clutter
 
 **Basis of competition:**  
 Core battles focus on delivery speed (same-day guarantees), cost efficiency, app-based tracking and coverage in congested Tbilisi/Batumi areas. Since competing on price can be a losing game in long-term, therefore delivery comapnies are trying to shift focus on other important asepects, for example Onway package traking system increases visibility for customers, while Onex has added smart services that allow customers to remotely inspect packages before they are sent for delivery. In addition, according to the surveys by amazon, customers willingles to pay more for same-day delivery option increased up to 53% and that trend is evident is Georgia too. Number of orders placed on Glovo and Bolt apps has increased by +30% in 2022 alone and downloads for Bolt climbed from 7.2K to 8.6K weekly.

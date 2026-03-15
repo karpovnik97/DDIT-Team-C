@@ -81,10 +81,13 @@ Core battles focus on delivery speed (same-day guarantees), cost efficiency, app
 https://www.cnbc.com/2024/09/17/how-amazon-is-using-generative-ai-to-drive-more-same-day-deliveries.html
 
 **Price intensity: High**  
-Aggressive price wars through discounts, dynamic pricing on apps, and low-margin bids for e-commerce volume erode profits, especially among unscaled gig operators chasing market share
+Aggressive price wars through discounts, dynamic pricing on apps, and low-margin bids for e-commerce volume erode profits, especially among unscaled gig operators chasing market share.
 
 **Innovation intensity: Incremental**  
-Progress in routing AI, EV adoption (e.g., GoBolt's electric fleets) and smart walls.
+Progress in routing AI, EV adoption (e.g., GoBolt's electric fleets) and smart walls. Self pickup is becoming more popular option, according to 
+Europe saw a 29% increase in automated parcel machines (lockers) in 2023, reaching nearly 155,000 units by year-end and companie including Onex is working os seeting up smart walls (self pickup) across Georgias large cisties/: Tbilis, Batumi and Kutaisi.
+
+https://cross-border-magazine.com/parcel-lockers-in-europe-2025/
 
 **Force rating:  High**  
 Crowded field with commoditized offerings

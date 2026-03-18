@@ -12,7 +12,7 @@ AI assistants are permitted as productivity tools. They are not permitted as sub
 
 ## Required Information
 
-**Team name:**
+**Team name:** Team C
 
 **Deliverable name and version:**
 

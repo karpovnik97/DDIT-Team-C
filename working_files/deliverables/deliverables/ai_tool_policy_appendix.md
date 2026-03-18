@@ -6,7 +6,7 @@ This appendix must be attached to every submitted deliverable in this course. It
 
 AI assistants are permitted as productivity tools. They are not permitted as substitutes for the team's strategic thinking, analytical judgment, or original recommendations. The distinction matters: the grade is for your thinking, not for AI output.
 
-If you cannot explain and defend every claim in your deliverable under instructor questioning, the work does not meet the standard regardless of the quality of the prose.
+**If you cannot explain and defend every claim in your deliverable under instructor questioning, the work does not meet the standard regardless of the quality of the prose!**
 
 ---
 

@@ -10,8 +10,8 @@ Do not force every case into "disruption." Precision matters.
 
 ## Part 1. Define the incumbent market
 
-- Industry:
-- Main incumbent firms:
+- Industry: Logistics
+- Main incumbent firms: (1) International Logistics Companies (e.g., DHL, UPS, FedEx), (2) Georgian Railway, (3) Georgian Post, (4) Local Couriers & Delivery firms, (5) Freight forwarding and trucking companies
 - Traditional business model:
 - Primary basis of competition before the challenger appeared:
 

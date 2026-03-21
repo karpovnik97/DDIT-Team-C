@@ -14,13 +14,13 @@ Update this log after each research session or team meeting. Treat it as a livin
 
 ## Hypothesis log
 
-| ID | Hypothesis | Evidence needed | Evidence collected | Status | Revision notes |
-|---|---|---|---|---|---|
-| H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company |  |  | Active |  |
-| H2 |  |  |  | Active |  |
-| H3 |  |  |  | Active |  |
-| H4 |  |  |  | Active |  |
-| H5 |  |  |  | Active |  |
+| ID | Hypothesis | Evidence needed | Evidence collected | Status | Revision notes | Owner |
+|---|---|---|---|---|---|---|
+| H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company |  |  | Active |  |Nikita |
+| H2 |  |  |  | Active |  |  |
+| H3 |  |  |  | Active |  |  |
+| H4 |  |  |  | Active |  |  |
+| H5 |  |  |  | Active |  |  |
 
 ## Status definitions
 

@@ -10,7 +10,7 @@ Do not force every case into "disruption." Precision matters.
 
 ## Part 1. Define the incumbent market
 
-- Industry: Logistics
+- Industry: Logistics and Parcel Delivery in Georgia (including domestic and cross-border shipments)
 - Main incumbent firms: (1) International Logistics Companies (e.g., DHL, UPS, FedEx), (2) Georgian Railway, (3) Georgian Post, (4) Local Couriers & Delivery firms, (5) Freight forwarding and trucking companies
 - Traditional business model: Operations are mainly based on physical infrastructure, which includes offices, warehouses. International shipments and exports/imports are carried out through Black Sea ports and railways. There is a fixed transport system and route. Coordination and control of logistics activities is mainly carried out by phone and email, with limited use of digital platforms. Control from the customer side is limited, therefore control is difficult, which leads to reduced flexibility and transparency.
 - Primary basis of competition before the challenger appeared: (1) Reliability, price, and delivery time; (2) Owning your own transportation and warehousing equipment; (3) Geographic coverage; (4) Reputation and relationship-based cooperation, which means that customers choose companies that have a good reputation and are stable. Those where there is lower perceived risk compared to newer digital solutions.

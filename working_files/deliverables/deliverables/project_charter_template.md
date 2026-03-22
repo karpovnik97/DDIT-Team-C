@@ -76,22 +76,22 @@ Define what is explicitly in scope. Be precise. Broad scope statements lead to u
 
 List five to eight specific areas of analysis the project will cover.
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1.The impact of international e-commerce platforms  on logistics flows in Georgia
+2.Cost and pricing differences between global platforms and Georgian logistics providers
+3.The role of platform-controlled logistics networks and their effect on local courier companies
+4.Level of digital integration (e.g., API, tracking systems) between local couriers and e-commerce platforms
+5.Changes in customer expectations regarding delivery speed, reliability, and transparency
+6.Competitive positioning of Georgian last-mile logistics operators
+7.Operational and technological capabilities of local courier companies
+8.Access to order flows and how it is controlled within platform ecosystems
 
 ### Scope boundaries
 
-- Geographic scope:
-- Time horizon for analysis:
-- Which part of the value chain:
-- Which customer segments:
-- Which competitors or entrants:
+- Geographic scope: Georgia, with focus on major urban areas (Tbilisi, Batumi, Kutaisi) and cross-border e-commerce flows
+- Time horizon for analysis: Primarily 2020–2025, capturing the rapid growth of e-commerce and recent platform expansion trends
+- Which part of the value chain:Last-mile delivery and its integration with cross-border e-commerce fulfillment systems
+- Which customer segments:individual consumers, Small and medium-sized enterprises (SMEs) selling through online platforms
+- Which competitors or entrants:International e-commerce platforms with integrated logistics, Global logistics providers (DHL, UPS, FedEx)
 
 ---
 

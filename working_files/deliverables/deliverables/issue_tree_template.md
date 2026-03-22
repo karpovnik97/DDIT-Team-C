@@ -61,7 +61,7 @@ Common examples:
 - Label: Changing customer expectations
 - Why it belongs: Customers now expect fast, reliable, and fully trackable deliveries. Foreign platforms provide standardized services and better tracking systems, which makes them more attractive compared to some local delivery options.
 
-**Branch 4**
+**Branch 4** Saba**
 - Label: Limited integration with e-commerce platforms
 - Why it belongs: Georgian courier companies are often not fully integrated into major international e-commerce ecosystems. This limits their access to order flows and reduces their participation in cross-border e-commerce logistics.
 

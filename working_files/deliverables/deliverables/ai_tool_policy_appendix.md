@@ -21,7 +21,7 @@ AI assistants are permitted as productivity tools. They are not permitted as sub
 **Team members signing this appendix:**
 
 1. Nikita Karpovi Chkhirodze
-2.
+2. Saba Kepuladze
 3.
 4.
 
@@ -103,7 +103,7 @@ By signing below, all team members confirm:
 
 Member 1: Nikita Karpovi Chkhirodze
 
-Member 2: ______________________
+Member 2: Saba Kepuladze
 
 Member 3: ______________________
 

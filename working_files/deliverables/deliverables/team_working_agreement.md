@@ -30,9 +30,9 @@ From your hypothesis log v1, identify the five hypotheses you will test before W
 | ID | Hypothesis Statement | Evidence Needed | Primary Source | Owner | Due Date |
 |---|---|---|---|---|---|
 | H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company| Infomation about logististics costs| Companies' websites| Nikita | March 29 |
-| H2 | | | | | March 22 |
-| H3 | | | | | March 29 |
-| H4 | | | | | March 29 |
+| H2 | | | | Lizi | March 22 |
+| H3 | | | |Giga| March 29 |
+| H4 | | | |Saba | March 29 |
 | H5 | | | | | April 2 |
 
 ### Source guidance for this sprint

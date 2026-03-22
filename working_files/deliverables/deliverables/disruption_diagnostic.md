@@ -31,20 +31,20 @@ Do not force every case into "disruption." Precision matters.
 ### Question 1
 Did the challenger enter by serving overserved customers at the low end?
 
-- Yes / No / Unclear
-- Evidence:
+- No
+- Evidence: The target market is people who want fast delivery services. Customers are not price sensitive. For them, time is more important than getting the service at a lower price.
 
 ### Question 2
 Did the challenger create access for non-consumers or open a new market?
 
-- Yes / No / Unclear
-- Evidence:
+- Yes
+- Evidence: Small businesses, restaurants, or even individuals are actively using it today. They are focused on small products or packages that would be unproductive and difficult to cooperate with large and traditional logistics companies.
 
 ### Question 3
 Did incumbents have a rational reason to ignore the entrant at first?
 
-- Yes / No / Unclear
-- Evidence:
+- Yes
+- Evidence: Traditional logistics companies, or simply transportation companies, focused on large, high-volume cargo shipments that generated high revenue. Small-volume cargo, such as food or small packages, was uninteresting due to the lack of revenue.
 
 ---
 

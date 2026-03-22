@@ -55,9 +55,9 @@ How should [focal organisation] respond to [specific disruption force] in order 
 
 Write three versions and select one:
 
-- Version A:
-- Version B:
-- Version C:
+- Version A: How should Georgian last-mile courier companies respond to the expansion of foreign e-commerce platforms in order to retain e-commerce shipments while managing operational and technological constraints?
+- Version B: How can Georgian parcel-delivery operators adapt to platform-led logistics disruptions to increase cross-border e-commerce volume while controlling costs and integration challenges?
+- Version C: What strategies should Georgian last-mile logistics providers implement to compete with integrated international e-commerce platforms while maintaining service quality and customer trust?
 - Selected version and reason for selection:
 
 ### Why this question matters

@@ -138,7 +138,7 @@ For each hypothesis, list the evidence required.
 
 | Hypothesis | What evidence is needed | Where will we look | Who owns it |
 |---|---|---|---|
-| H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company | Infomation about logististics netwrok costs  | Companies' websites and reports | Nikita
+| H1 | Infomation about logististics netwrok costs | Companies' websites and reports |  Nikita| 
 | H1 | Data on which logistics providers are used by major platforms; share of deliveries handled internally vs outsourced | Platform policies, industry reports, company announcements, interviews with logistics managers | Platforms such as Temu, Ozon, logistics partners |
 | H2 | Comparison of delivery prices (local vs platform-based shipping); cost structure of logistics services | E-commerce websites, courier company pricing lists, customer surveys | Platforms, Georgian courier companies, customers |
 | H3 | Customer satisfaction data; delivery times; availability of tracking systems | Customer reviews, surveys, company service data, app/platform features | Customers, logistics companies, e-commerce platforms |

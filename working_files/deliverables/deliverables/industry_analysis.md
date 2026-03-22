@@ -90,41 +90,13 @@ Identify three to five major trends.
 
 What digital technologies are changing this industry?
 
-
-          Technology            |   	Current use                 |	    Likely strategic impact	             | Evidence
-  
-   GPS tracking and  telematics	|    Used by logistics companies  |     Improves efficiency, reduces delays  | Many transport companies 
-                                |    to monitor vehicle location, |     and increases transparency for       | operating through Georgia 
-                                |    routes, and delivery status  |     customers. Helps companies optimize  | use real-time tracking 
-                                |    in real time                 |     routes and lower fuel costs          | systems for cross-border 
-                                |                                 |                                          | shipments and transit 
-                                |                                 |                                          | cargo
-                                |                                 |                                          |
-                          
- Warehouse Management Systems   |   Used in warehouses to manage  |   Increases operational efficiency,      | Modern warehouses near
-                                |   inventory, storage, and order |   reduces errors, and allows faster      | major hubs such as Tbilisi 
-                                |   processing                    |   order fulfillment. Important for       | are adopting automated 
-                                                                  |   scaling  logistics operations          | inventory and warehouse 
-                                                                                                             | systems
-
-
-
-   Digital freight platforms   |    Platforms that connect shippers      Reduces transaction costs, improves | Growing use of digital 
-                               |    with carriers and manage             market transparency, and increases  | platforms for freight 
-                               |    logistics operations digitally       competition in the logistics sector | matching and coordination 
-                                                                                                             | in regional logistics 
-                                                                                                             | markets, including Georgia                                                             
-      
-   Electronic documentation   |     Digital handling of transport and     Speeds up border crossing, reduces | Implementation of 
-      (e-CMR, e-customs)      |     customs documents instead of          bureaucracy, and lowers risk       | electronic customs systems 
-                              |     paper-based processes                 of errors or fraud                 | in Georgia has improved 
-                                                                                                             | efficiency in transit                                                                                                                   | procedures
-
-  Data analytics and route    |     Used to analyze transport data and     Helps companies make better       |  Logistics firms 
-    optimization tools        |     optimize delivery routes and           decisions reduce costs, and       |  increasingly rely on
-                              |     schedules                              improve service quality           |  data to manage transit 
-                                                                                                             |  flows, especially on                                                                                                                   |  routes connected to                                                                                                                    |  the Middle Corridor
-
+| Technology | Current use | Likely strategic impact | Evidence |
+|---|---|---|---|
+| GPS tracking and telematics | Used by logistics companies to monitor vehicle location, routes, and delivery status in real time | Improves efficiency, reduces delays, and increases transparency for customers. Helps companies optimize routes and lower fuel costs | Many transport companies operating through Georgia use real-time tracking systems for cross-border shipments and transit cargo |
+| Warehouse Management Systems (WMS) | Used in warehouses to manage inventory, storage, and order processing | Increases operational efficiency, reduces errors, and allows faster order fulfillment. Important for scaling logistics operations | Modern warehouses near major hubs such as Tbilisi are adopting automated inventory and warehouse systems |
+| Digital freight platforms | Platforms that connect shippers with carriers and manage logistics operations digitally | Reduces transaction costs, improves market transparency, and increases competition in the logistics sector | Growing use of digital platforms for freight matching and coordination in regional logistics markets, including Georgia |
+| Electronic documentation (e-CMR, e-customs) | Digital handling of transport and customs documents instead of paper-based processes | Speeds up border crossing, reduces bureaucracy, and lowers risk of errors or fraud | Implementation of electronic customs systems in Georgia has improved efficiency in transit procedures |
+| Data analytics and route optimization tools | Used to analyze transport data and optimize delivery routes and schedules | Helps companies make better decisions, reduce costs, and improve service quality | Logistics firms increasingly rely on data to manage transit flows, especially on routes connected to the Middle Corridor |
 
 ---
 
@@ -149,38 +121,11 @@ Finally, poor tracking systems or lack of transparency in shipment status is inc
 
 | Company | Position in market | Main strengths | Main vulnerabilities |
 |---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-          Company                |   	Position in market          |	    Main strengths	                     | Main vulnerabilities
-  
-     Georgian Railway          	|    One of the key players in    |    Strong control over national rail     | Less flexible than road 
-                                |    rail freight and transit     |    rail infrastructure; important role   | transport; dependent on  
-                                |    logistics                    |    in international corridors;           | infrastructure quality and 
-                                |                                 |    cost-efficient for bulk transport     | regional trade flows
-                                |                                 |                                          |
-                          
- APM Terminals Poti             |   Major operator of port        |   Strategic location on the Black Sea    | Capacity limitations;
-                                |   logistics at the Port of Poti |   modern port infrastructure             | dependence on maritime  
-                                |                                 |   strong connection to international     | trade volumes and regional 
-                                                                  |   shipping lines                         | competition
-                                                                                                          
-
-   Batumi Sea Port             |   Platforms that connect shippers|    Established infrastructure;           | Less diversified services; 
-                               |   with carriers and manage       |    specialization in certain             | competition with other  
-                               |   logistics operations digitally |    cargo types (e.g., oil, bulk)         | regional ports 
-                                                                                                        
-      
-         DHL                  |    Important player in            |      Strong global network advanced      | Higher prices compared to 
-                              |    maritime logistics and oil     |      digital systems; high service       | local competitors; less 
-                              |    cargo handling                 |      reliability                         | focus on low-cost segments 
-                                                                                                           
-        DB Schenker           |    Leading international          |        Integrated logistics services     |  Complex operations; may 
-                              |    logistics provider operating   |        strong expertise in multimodal    |  be less flexible in
-                              |    in Georgia                     |        transport                         |  smaller local markets
-                                                                                                             
-
+| Georgian Railway | One of the key players in rail freight and transit logistics | Strong control over national rail infrastructure; important role in international corridors; cost-efficient for bulk transport | Less flexible than road transport; dependent on infrastructure quality and regional trade flows |
+| APM Terminals Poti | Major operator of port logistics at the Port of Poti | Strategic location on the Black Sea; modern port infrastructure; strong connection to international shipping lines | Capacity limitations; dependence on maritime trade volumes and regional competition |
+| Batumi Sea Port | Important player in maritime logistics and oil cargo handling | Established infrastructure; specialization in certain cargo types (e.g., oil, bulk) | Less diversified services; competition with other regional ports |
+| DHL | Leading international logistics provider operating in Georgia | Strong global network; advanced digital systems; high service reliability | Higher prices compared to local competitors; less focus on low-cost segments |
+| DB Schenker | Major international freight and supply chain solutions provider | Integrated logistics services; strong expertise in multimodal transport | Complex operations; may be less flexible in smaller local markets |
 
 ---
 
@@ -188,34 +133,12 @@ Finally, poor tracking systems or lack of transparency in shipment status is inc
 
 | Entrant or substitute | Business model | Why it matters | Threat level |
 |---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Digital freight platforms (e.g., Uber Freight-type models) | Online platforms connecting shippers directly with carriers | Reduce need for traditional intermediaries, increase price transparency, and intensify competition | Medium–High 
+| Regional logistics startups | Flexible, asset-light companies focusing on niche or fast delivery services | More agile and customer-focused; can quickly adapt to market needs and offer competitive pricing | Medium |
+| Alternative transport corridors (e.g., routes bypassing Georgia) | Competing international transit routes between Europe and Asia | Can reduce cargo flow through Georgia if they become more efficient or politically stable | High |
+| In-house logistics by large companies | Large firms managing their own supply chains instead of outsourcing | Reduces demand for third-party logistics providers | Medium |
 
-         Entrant or substitute  |   	Business model              |	    Why it matter 	                     | Threat level
-  
-    Digital freight platforms 	|    Online platforms connecting  |    Reduce need for traditional           | Medium–High
-                                |    shippers directly with       |    intermediaries, increase price        |   
-                                |    carriers                     |    transparency, and intensify           |  
-                                |                                 |    competition                           | 
-                                |                                 |                                          |
-                          
- Regional logistics startups    |  Flexible, asset-light companies|   More agile and customer focused        | Medium
-                                |   focusing on niche or fast     |   can quickly adapt to market            |   
-                                |   delivery services             |   needs and offer competitive pricing    |  
-                                                                  |                                          | 
-                                                                                                          
-
-   Alternative transport       |  Competing international transit |    Can reduce cargo flow                 |  High
-   corridors                   |   routes between Europe and Asia |    through Georgia if they               |   
-                               |                                  |    become more efficient or              |  
-                                                                       politically stable                                 
-      
-   In-house logistics         |    Large firms managing their own |      Reduces demand for third            |  Medium
-   by large companies         |    supply chains instead of       |      party logistics providers           |  
-                              |    outsourcing                    |                                          |  
-                                                                                                           
-   
+---
 
 ## Part 8. Strategic implications
 

@@ -19,10 +19,10 @@ Do not force every case into "disruption." Precision matters.
 
 ## Part 2. Define the challenger or technology shift
 
-- Challenger firm or technology: Platform-led logistics by international e-commerce marketplaces (e.g., Temu, Wildberries, Ozon) operating in Georgia. These platforms often rely on their own integrated logistics networks or exclusive international partners, bypassing traditional local courier companies.
-- Initial offering: Real-time tracking and transparent delivery updates for customers, End-to-end logistics solutions including warehousing, sorting, and last-mile delivery,  Integrated digital platforms for order management and shipment coordination, Competitive pricing through economies of scale and subsidized shipping
-- Initial target users: Georgian e-commerce sellers looking to expand cross-border sales, Local online buyers expecting fast, reliable, and trackable deliveries.
-- Why it seemed interesting or threatening:Offers lower costs and faster delivery compared to traditional incumbents,Captures control over customer data, delivery standards, and pricing, which shifts power away from local logistics providers,Represents a structural change in the logistics value chain rather than just incremental competition
+- Challenger firm or technology: (1) Platform-based, on-demand last-mile delivery services (e.g., Wolt, Glovo, Bolt Food), (2) Digitalization of Logistic platforms for shipment
+- Initial offering: (1) Real-time visibility of where a cargo is located at a specific point in time (applies to any cargo, including cargo between countries that passes through, for example, the ports of Batumi and Poti), (2) Delivery of food, snacks, or household products by scooters, cars, or even bicycles (ordering and delivery with a digital service quickly and flexibly)
+- Initial target users: 
+- Why it seemed interesting or threatening: Using the app and ordering through it increases convenience for the user. Adding an easily transportable vehicle such as a bicycle/scooter reduces time and speeds up delivery. Transportation costs are reduced as fuel consumption is reduced.
 
 ---
 

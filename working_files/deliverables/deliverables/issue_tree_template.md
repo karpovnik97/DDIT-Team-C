@@ -115,9 +115,9 @@ Georgian companies have fewer direct relationships with global merchants, reduci
 
 Convert each major branch into a testable hypothesis.
 
-**Hypothesis 1**
-- Statement: Georgian courier companies are losing e-commerce shipments because foreign marketplaces rely on their own logistics networks or exclusive partners instead of local delivery firms.
-- Why it seems plausible: Platforms such as Temu and Wildberries operate integrated logistics systems, which reduces the need to involve independent Georgian couriers in the delivery process.
+**Hypothesis 1** Nikita
+- Statement: It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company.
+- Why it seems plausible: E-commerce platforms that operate in a few countries have cabability of creating their own logistics netwrks in the few countries they work in, while global platforms like Temu can not create their custom newtork in every market they enter .
 
 **Hypothesis 2**
 - Statement: Georgian courier companies are less competitive because they cannot match the low delivery prices offered by large international platforms.

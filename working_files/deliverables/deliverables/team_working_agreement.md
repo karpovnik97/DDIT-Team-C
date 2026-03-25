@@ -61,7 +61,7 @@ Identify what is incomplete or weakly evidenced in the competitive landscape v1 
 | Value chain | More evidence needed | Get more infomation about operaions of major shippers |Nikita| |
 | New entrants or substitutes | | | | |
 | Jobs-to-be-done analysis | | |LIzi| |
-| Competitive positioning matrix | | | | |
+| Competitive positioning matrix | Warehouse quality missing as differentiator | Map competitors by Class A access vs B/C reliance | Saba | |
 
 ---
 

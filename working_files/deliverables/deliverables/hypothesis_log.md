@@ -18,8 +18,8 @@ Update this log after each research session or team meeting. Treat it as a livin
 |---|---|---|---|---|---|---|
 | H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company |  |  | Active |  |Nikita |
 | H2 | Georgian courier companies are losing e-commerce shipments because they lack integration with global e-commerce platforms, limiting their access to order flows |  |  | Active |  | Givi |
-| H3 | Platform-based courier companies, unlike traditional logistics companies, offer customers fast, transparent and convenient service. |  |  | Active |  | Lizi |
-| H4 |  |  |  | Active |  |  |
+| H3 | Platform-based courier companies, unlike traditional logistics companies, offer customers fast, transparent and convenient service |  |  | Active |  | Lizi |
+| H4 | Georgian courier companies are less competitive because they cannot match the low delivery prices offered by large international platforms |  |  | Active |  | Saba |
 | H5 |  |  |  | Active |  |  |
 
 ## Status definitions

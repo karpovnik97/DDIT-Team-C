@@ -17,7 +17,7 @@ Teams that arrive at Weekend 2 without Sprint 1 deliverables lose the most valua
 ## Team Information
 
 - Team name: Team C
-- Industry context:
+- Industry context: Logistics
 - Sprint 1 owner (Recorder role for this sprint): Lizi Mshvenieradze
 - Members: Nikita Karpovi Ckhirodze, Givi Jalagonia, Saba Kepuladze.
 
@@ -30,7 +30,7 @@ From your hypothesis log v1, identify the five hypotheses you will test before W
 | ID | Hypothesis Statement | Evidence Needed | Primary Source | Owner | Due Date |
 |---|---|---|---|---|---|
 | H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company| Infomation about logististics costs| Companies' websites| Nikita | March 29 |
-| H2 | Platform-based courier companies, unlike traditional logistics companies, offer customers fast, transparent and convenient service | | | Lizi | March 22 |
+| H2 | Platform-based courier companies, unlike traditional logistics companies, offer customers fast, transparent and convenient service | Traditional Logistic Courier VS platform-based courier. Customer satisfaction |Industry and company reports. Reviews (customer, websites and application) | Lizi | March 22 |
 | H3 | | | |Giga| March 29 |
 | H4 | Class A warehouse shortage forces fragmented facilities, raising costs and inefficiencies | Class A supply/demand; Class B/C share; rental rates; vacancy rates | TBC Capital, Galt & Taggart, BM.GE |Saba | March 29 |
 | H5 | | | | | April 2 |

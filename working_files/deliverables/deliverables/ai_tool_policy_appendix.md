@@ -33,7 +33,7 @@ List every AI tool used in preparing this deliverable. If none were used, write 
 
 | Tool Name | Version or Model | Purpose in This Deliverable |
 |---|---|---|
-|ChatGPT | GPT 5.2| Refining ideas, testing assumptions |
+|ChatGPT | GPT 5.2| Refining & generating ideas, testing our assumptions & recommendations|
 |Perplexity |Grok 4.1 | Finding relevant sources on internet |
 | Gemini | Gemini 3 |Finding relevant sources on internet|
 

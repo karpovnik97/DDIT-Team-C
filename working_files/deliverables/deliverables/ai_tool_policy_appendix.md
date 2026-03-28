@@ -33,9 +33,9 @@ List every AI tool used in preparing this deliverable. If none were used, write 
 
 | Tool Name | Version or Model | Purpose in This Deliverable |
 |---|---|---|
-|ChatGPT | | |
-|Perplexity | | |
-| Gemini | | |
+|ChatGPT | GPT 5.2| Refining ideas, testing assumptions |
+|Perplexity |Grok 4.1 | Finding relevant sources on internet |
+| Gemini | Gemini 3 |Finding relevant sources on internet|
 
 ---
 
@@ -46,12 +46,12 @@ For each type of use, indicate Yes or No. If Yes, provide a brief description.
 ### 2.1 Drafting initial outlines or document structure
 
 - Used: Yes
-- If Yes, describe: 
+- If Yes, describe: initial draft by AI makes it easy to understand what needs to be done
 
 ### 2.2 Generating analytical content, insights, or strategic claims
 
-- Used: Yes / No
-- If Yes, describe which sections and how the team verified and tested the output:
+- Used: Yes 
+- If Yes, describe which sections and how the team verified and tested the output: each strategic claim/recommendation is tested to best of our abilities, each insight by AI is verified by examining relevant sources
 
 ### 2.3 Editing prose for grammar, clarity, or style
 
@@ -65,13 +65,13 @@ For each type of use, indicate Yes or No. If Yes, provide a brief description.
 
 ### 2.5 Building or populating templates, frameworks, or models
 
-- Used: Yes / No
+- Used: No
 - If Yes, describe and confirm the team reviewed all outputs before submission:
 
 ### 2.6 Any other use not covered above
 
 - Used: Yes 
-- If Yes, describe: We used AI to review every strategic recomendation/conclusion that we have made, in order to ensure they are realistic and logical.
+- If Yes, describe: We used AI to review/test every strategic recomendation/conclusion that we have made, in order to ensure they are realistic and logical.
 
 ---
 

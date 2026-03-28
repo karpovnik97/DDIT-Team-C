@@ -60,7 +60,7 @@ Identify what is incomplete or weakly evidenced in the competitive landscape v1 
 | Porter's Five Forces | More sources to back up the claims| | Nikita | |
 | Value chain | More evidence needed | Get more infomation about operaions of major shippers |Nikita| |
 | New entrants or substitutes | | | | |
-| Jobs-to-be-done analysis | | |LIzi| |
+| Jobs-to-be-done analysis | For the consumer, delivery is inconvenient, inconvenient, not transparent and reliable | interviewing and conduct surveys, analyze data |Lizi| |
 | Competitive positioning matrix | Warehouse quality missing as differentiator | Map competitors by Class A access vs B/C reliance | Saba | |
 
 ---
@@ -72,7 +72,7 @@ Identify what is incomplete or weakly evidenced in the competitive landscape v1 
 | 1. Market size and growth data | Named source with year; update industry analysis template Part 2 | | March 22 |
 | 2. Customer behaviour shifts | Two to three evidence points on digital adoption, friction, or expectation change | Nikita | March 22 |
 | 3. New entrant profiles | One-page profile per major new entrant or substitute identified in Week 1 | Nikita | March 29 | 
-| 4. Incumbent strategic moves | Recent moves by incumbent firms: investments, partnerships, product launches, layoffs | | March 29 |
+| 4. Incumbent strategic moves | Recent moves by incumbent firms: investments, partnerships, product launches, layoffs | Lizi | March 29 |
 | 5. AI adoption benchmarks | Sector-specific AI adoption rate, investment level, or productivity impact data | | April 2 |
 | 6. Regulatory context | Any regulatory development affecting the industry in 2024–2026 | | April 2 |
 

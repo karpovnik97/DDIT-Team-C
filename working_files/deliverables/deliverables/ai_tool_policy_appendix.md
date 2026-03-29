@@ -23,7 +23,7 @@ AI assistants are permitted as productivity tools. They are not permitted as sub
 1. Nikita Karpovi Chkhirodze
 2. Saba Kepuladze
 3. Lizi Mshvenieradze
-4.
+4. Givi Jalagonia
 
 ---
 

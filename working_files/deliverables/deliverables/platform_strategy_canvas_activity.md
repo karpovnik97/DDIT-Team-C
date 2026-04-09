@@ -26,9 +26,14 @@ total time 18
 
 ## Process
 
+
 Sections 1–4 (Value Unit, Producer Side, Consumer Side, Network Effect) – 6 minutes
+
 Section 5 (Client’s current platform position) – 3 minutes
+
 Section 6 (Strategic recommendation + 3 reasons) – 6 minutes
+
+
 Section 7 (First move – 6-month action) – 3 minutes
 ## Quality standard
 

@@ -15,7 +15,6 @@ The charter is separate from the Team Charter. The Team Charter covers how you w
 - Team name: Team-C
 - Industry context: 
 - Members:
-  - Nikita Karpovi Chkhirodze
   - Givi Jalagonia
   - Lizi Mshvenieradze
   - Saba Kepuladze

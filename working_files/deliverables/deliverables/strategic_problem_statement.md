@@ -26,13 +26,13 @@ Describe the client's current position.
 
 ## Part 3. Core strategic problem
 
-Write one sentence.
+How should Georgian last-mile courier companies respond to foreign e‑commerce platform expansion to retain e‑commerce shipments while managing limited technology integration and operational capacity?
 
 ### Strong format
-How should [client] respond to [specific disruption force] in order to [strategic objective] while managing [main constraint]?
+How should Georgian courier companies respond to the expansion of foreign e‑commerce platforms in order to retain e‑commerce shipments while managing limited technology integration and operational capacity?
 
 ### Draft
-- Problem statement:
+ Georgian last-mile courier companies are losing e‑commerce shipments because foreign platforms like Temu, Wildberries, and Ozon prefer centralized fulfillment and integrated logistics networks, bypassing local couriers and limiting their access to order flows.
 
 ---
 

@@ -2,13 +2,13 @@
 
 ## Purpose
 
-A project without a clear problem statement drifts. This worksheet forces the team to define the strategic challenge precisely.
+This worksheet aims to clearly define the strategic challenges faced by Georgian last-mile courier and parcel-delivery companies in the face of foreign e-commerce platform expansion. It helps the team identify key drivers, constraints, and potential impacts, ensuring that any analysis and recommendations directly address the company’s competitive and operational needs.
 
 ---
 
 ## Part 1. Context
 
-- Industry:
+- Industry:Logistic
 - Focal company or client:
 - Primary disruption force:
 - Why this matters now:

@@ -18,9 +18,9 @@ This worksheet aims to clearly define the strategic challenges faced by Georgian
 ## Part 2. Current position
 
 Describe the client's current position.
-- Strengths:
-- Vulnerabilities:
-- Strategic tension:
+- Strengths: Established local network with knowledge of Georgian geography, urban centers, and last-mile routes. Flexibility to respond quickly to local customer needs and special delivery requests. Local brand recognition and trust among Georgian consumers.
+- Vulnerabilities: Limited integration with global e-commerce platforms. Fragmented technology and limited digital tracking systems. Small scale limits bargaining power and economies of scale.
+- Strategic tension: Need to maintain current domestic operations and relationships while adapting to international platform-led logistics that bypass local couriers. Pressure to retain market share in e-commerce shipments without access to platform-controlled order flows.
 
 ---
 

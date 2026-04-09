@@ -71,9 +71,9 @@ Risks include dependence on external partners, potential misalignment of incenti
 
 
 ### Three supporting reasons
-1.
-2.
-3.
+1. Georgian courier companies already have strong local delivery networks, operational experience, and market knowledge. Building a shared platform leverages these existing assets and enhances them through digital integration, rather than replacing them.
+2. Foreign e-commerce platforms are capturing value by controlling order flows and logistics. Building a platform allows Georgian couriers to regain control, create network effects, and compete collectively instead of being marginalized as fragmented service providers.
+3.  A platform model enables higher long-term returns through increased shipment volume, lower per-unit costs, and new revenue streams (e.g., platform fees, data insights). While initial investment is higher, the scalability and efficiency gains create stronger and more sustainable profitability.
 
 ### Condition that would change this recommendation
 

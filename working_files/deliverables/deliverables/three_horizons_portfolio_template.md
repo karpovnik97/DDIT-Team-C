@@ -29,9 +29,9 @@ Platform pilots, data infrastructure, emerging business opportunities. Requires 
 
 | # | Initiative name | Description | Investment estimate | Funding source | Prerequisite from H1 |
 |---|---|---|---|---|---|
-| H2-1 |  |  |  |  |  |
-| H2-2 |  |  |  |  |  |
-| H2-3 |  |  |  |  |  |
+| H2-1 | National Logistics Data Platform | Consolidate all parcel, route, seller, and consumer data into a unified cloud data warehouse. Deploy demand forecasting models (predicting daily parcel volume by region 14 days ahead) and dynamic pricing engine (adjusting delivery rates by route density, time window, and parcel type). This becomes the intelligence layer powering all H3 initiatives. | GEL 740,000 (cloud infrastructure + data engineering team hire + model development) | H1 ROI savings + government digital transformation grant (if applicable) | H1-1 route data pipeline must be live and generating clean structured data; H1-3 seller API must be feeding volume data |  |
+| H2-2 | Parcel Locker Network Rollout (AI-Sited) | Deploy 80–100 smart parcel lockers across Tbilisi and three secondary cities, with locker locations chosen by AI demand-density modelling (using H1-1 route data). Lockers enable 24/7 consumer collection, reduce failed-delivery rate (currently estimated 18–22%), and cut last-mile cost on dense urban routes by up to 30%. Partner with petrol stations, supermarkets, and pharmacies for host locations | GEL 1,800,000 (locker hardware + installation + IoT connectivity + consumer app integration) | Development bank financing + host-partner revenue-share to offset capex | H1-1 route density data required to site lockers accurately; H1-2 chatbot handles locker booking and consumer notifications  |
+| H2-3 | Cross-Border E-Commerce Customs Integration | Build a digital customs pre-clearance API connecting Georgian Post's shipping system directly to the Revenue Service of Georgia. Sellers declare goods digitally at label generation; Georgian Post acts as a licensed customs broker. Reduces average clearance time from 3–5 days to same-day for compliant shipments. Positions Georgian Post as the preferred gateway for international e-commerce imports | GEL 560,000 (API development + legal/regulatory setup + Revenue Service integration + staff certification) | H1 ROI savings + per-shipment customs facilitation fee (new revenue stream from Month 18) | H1-3 Seller API must be live — customs data flows through the same seller onboarding pipeline |
 
 ---
 
@@ -41,8 +41,8 @@ AI-first operating model experiments, new market creation. Low probability, high
 
 | # | Initiative name | Description | Investment estimate | Funding source | Prerequisite from H2 |
 |---|---|---|---|---|---|
-| H3-1 |  |  |  |  |  |
-| H3-2 |  |  |  |  |  |
+| H3-1 | Georgian E-Commerce Logistics Platform (Marketplace OS) | Launch a fully open logistics marketplace platform: Georgian Post becomes the operating system of domestic e-commerce, offering third-party couriers, warehousing partners, and fulfilment providers the ability to plug into the Georgian Post seller and consumer network via API. Georgian Post earns platform fees, data licensing revenue, and premium seller subscription tiers. Analogous to Fulfillment by Amazon but built on national postal infrastructure | GEL 2,200,000 (platform engineering + marketplace governance + partner integration + legal framework) | H2 platform data revenues + strategic investor / IFC / EBRD development finance | H2-1 data platform must be mature — marketplace pricing and matching is AI-driven; H2-3 customs integration creates the cross-border seller moat |
+| H3-2 | Autonomous Last-Mile Pilot (Drone + Micro-EV) | Run a controlled pilot of autonomous last-mile delivery in two high-density Tbilisi districts using electric cargo bikes with AI routing and, in Phase 2, regulatory-approved delivery drones for rural low-density routes where human delivery is uneconomical. Designed to reduce last-mile cost by 40% on pilot routes and generate national policy precedent for drone logistics regulation | GEL 950,000 (pilot vehicles + regulatory engagement + safety certification + route AI adaptation) | Innovation grant (EU Horizon / USAID Georgia) + Georgian Post R&D budget | H2-1 demand forecasting required for autonomous routing; H2-2 locker network provides autonomous drop-off anchor points |
 
 ---
 
@@ -51,8 +51,21 @@ AI-first operating model experiments, new market creation. Low probability, high
 How does H1 fund H2? How does H2 enable H3?
 
 - H1 generates:
+- GEL 580,000 in Year 1 operational savings from route optimization (fuel, overtime, dispatcher hours)
+- GEL 95,000 in call centre cost reduction from chatbot deflection (agent headcount redeployment)
+- GEL 320,000 in incremental parcel revenue from seller API volume uplift (200 new active sellers × average GEL 1,600 annual parcel spend)
+- **Total H1 net value Year 1: ~GEL 995,000 against GEL 960,000 investment — payback within 12 months**
+
 - H1 ROI funds:
+- H2-1 Data Platform: financed by H1 savings reinvested in Year 2
+- H2-3 Customs Integration: financed by H1 revenue uplift + new customs facilitation fee stream
+- H2-2 Parcel Locker Network: requires development bank financing — H1 demonstrated operational improvements serve as the investment thesis for lenders
+
 - H2 enables:
+- H2-1 (Data Platform) is the non-negotiable prerequisite for H3-1 (Marketplace OS) — without clean, structured, real-time logistics data, the marketplace matching and dynamic pricing engine cannot function
+- H2-2 (Locker Network) provides the physical anchor points for H3-2 autonomous delivery — lockers become autonomous drop zones, removing the need for human handoff
+- H2-3 (Customs Integration) creates the cross-border seller moat that makes H3-1 platform defensible — international sellers stay on the platform because customs clearance is embedded and irreplaceable
+- H2 revenue streams (customs fees, locker subscriptions, data licensing) provide the recurring income base that funds H3 R&D without requiring external equity dilution
 
 ---
 

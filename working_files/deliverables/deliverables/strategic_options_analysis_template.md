@@ -10,44 +10,43 @@ Complete during the Sunday Strategic Options workshop. Use your three preliminar
 
 ---
 
-## Option 1: [Name]
+## Option 1: [Build a Local Logistics Integration Platform]
 
 ### Description (one paragraph)
-
+ Georgian courier companies collaborate to build a shared digital platform that integrates with international e-commerce marketplaces and domestic sellers through APIs. This platform aggregates delivery capacity across multiple local couriers, enabling seamless order flow, real-time tracking, and standardized service levels. By acting as a unified interface, it allows foreign platforms to access Georgian last-mile delivery through a single integration point instead of bypassing local providers.
 
 ### Financial logic (one paragraph)
-Describe the mechanism of value creation and the key financial assumption that determines ROI.
-
+Value is created by increasing shipment volume through access to platform-driven order flows and improving operational efficiency via route optimization and shared infrastructure. The key financial assumption is that aggregated volume will lower per-unit delivery costs and increase margins, while platform fees or commissions generate additional revenue streams. Higher utilization rates of existing assets (vehicles, workforce) further improve ROI.
 
 ### Risk assessment (one paragraph)
-Top risk and one specific mitigation.
+The main risks include high initial investment in technology development, coordination challenges among competing courier companies, and slow adoption by international platforms. There is also execution risk if integration quality or service reliability does not meet global standards. Additionally, without sufficient scale, the platform may fail to generate strong network effects, limiting its competitiveness against established global logistics networks.
 
 
 ---
 
-## Option 2: [Name]
+## Option 2: [Join Existing Global E-commerce Platforms]
 
 ### Description (one paragraph)
-
+Georgian courier companies integrate directly into existing global e-commerce platforms  as official last-mile delivery partners. Instead of building their own platform, they align with dominant players by adopting required technology standards, APIs, and service-level agreements. This allows them to plug into existing order flows and benefit from the platforms’ scale and infrastructure.
 
 ### Financial logic (one paragraph)
-
+Value is created through immediate access to large and growing shipment volumes without the need for heavy upfront investment in platform development. Revenue increases as couriers handle more deliveries, while costs remain relatively stable due to existing infrastructure. The key financial assumption is that increased volume will compensate for potentially lower margins imposed by platform pricing power.
 
 ### Risk assessment (one paragraph)
-
+The main risk is dependency on large platforms, which may exert strong bargaining power and reduce margins over time. Georgian couriers may become commoditized service providers with limited control over pricing and customer relationships. There is also the risk that platforms may later internalize logistics, fully bypassing local partners.
 
 ---
 
-## Option 3: [Name]
+## Option 3: [Partner with Regional Logistics or Fulfillment Providers]
 
 ### Description (one paragraph)
-
+Georgian courier companies form strategic partnerships with regional logistics hubs or fulfillment providers (e.g., in Turkey, Eastern Europe) to create a hybrid logistics network. This approach strengthens cross-border capabilities and positions local couriers as part of a broader supply chain, improving their attractiveness to international e-commerce platforms.
 
 ### Financial logic (one paragraph)
-
+Value is created by expanding service offerings beyond last-mile delivery into cross-border logistics and fulfillment support. This enables higher-value services and diversified revenue streams. The key financial assumption is that partnerships will increase shipment volume and allow couriers to capture more value per transaction through integrated logistics solutions.
 
 ### Risk assessment (one paragraph)
-
+Risks include dependence on external partners, potential misalignment of incentives, and complexity in coordinating operations across borders. There may also be integration challenges and slower decision-making. Additionally, if partnerships are not exclusive or strong enough, competitive advantage may be limited.
 
 ---
 

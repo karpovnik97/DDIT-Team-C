@@ -40,8 +40,8 @@ How should Georgian courier companies respond to the expansion of foreign e‑co
 
 List one or two nearby questions that look related but are not the central question.
 
-1.
-2.
+1.How can Georgian courier companies reduce internal delivery costs? 
+2. How can Georgian e-commerce sellers choose the fastest courier?
 
 This helps keep scope clean.
 
@@ -51,6 +51,6 @@ This helps keep scope clean.
 
 If the team answers this question well, what should become clearer?
 
-- Criterion 1:
-- Criterion 2:
-- Criterion 3:
+- Criterion 1: Clear understanding of why Georgian courier companies are losing e-commerce shipments to foreign platform-led logistics.
+- Criterion 2: Identification of strategic options for local couriers to retain or grow their share of e-commerce deliveries.
+- Criterion 3: Assessment of operational, technological, and financial feasibility of proposed responses.
